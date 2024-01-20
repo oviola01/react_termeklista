@@ -1,0 +1,16 @@
+.navBar{
+    display: grid;
+    grid-template-columns: 120px 240px 240px;
+    gap: 40px;
+    padding: 40px;
+}
+
+.menu{
+    border: 1px solid rgb(46, 196, 219);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 25px;
+}

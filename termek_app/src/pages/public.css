@@ -1,0 +1,13 @@
+.publicSite{
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+}
+
+.item{
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 10px;
+    margin: 40px;
+}
